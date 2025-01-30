@@ -1,2 +1,8 @@
 Console.WriteLine("Hanzla Saif")
 Console.WriteLine("24-ST-073")
+Console.WriteLine("Ics")
+Console.WriteLine("English")
+Console.WriteLine("Urdu")
+Console.WriteLine("Computer")
+Console.WriteLine("Physics")
+Console.WriteLine("Math")
